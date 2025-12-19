@@ -10,7 +10,7 @@ for i = 1:1195
 end
 
 % Parameters
-r = 0.002; % Radius from your PDF Page 6 
+r = 0.002; % Radius 
 m = 1;     % Number of clusters
 x_c(1,:) = x_input(1,:); 
 H(1) = y_output(1);
